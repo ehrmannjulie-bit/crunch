@@ -1,2 +1,2 @@
-﻿derniere_maj;modele;nb_poles;date_min_oos;date_max_oos;nb_jours_2026;couverture_ic;nb_warnings
-2026-05-20 11:10;Random Forest;8;2026-01-02;2026-02-26;41;76.6%;N/A
+﻿derniere_maj;modele;nb_poles;date_min_oos;date_max_oos;couverture_ic;nb_warnings;fichiers_xlsx
+2026-05-21 09:28;Random Forest;8;2026-01-02;2026-02-26;76.6%;N/A;resultats_previsions_rf.xlsx, warnings_predictions_2026.xlsx
